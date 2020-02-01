@@ -8,14 +8,21 @@ The data scientists at BigMart have collected 2013 sales data for 1559 products 
 
 # Steps:
    1: Data Exploration
+   
    2: Data Cleaning 
+   
    3: Feature Engineering
+   
    4: Creating Models
    
 # Following machine learning algorithms are used
+
  1: Lenear Regression Model
+ 
  2: SGDRegressor
+ 
  3: SVR
+ 
  4: Random Forest Model
 
 
